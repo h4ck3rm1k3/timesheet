@@ -1,0 +1,3 @@
+[16-Aug-2013 14:30:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home2/ardian/public_html/code/ajax/admin/connect.php on line 9
+[16-Aug-2013 14:30:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'ardian'@'localhost' (using password: NO) in /home2/ardian/public_html/code/ajax/admin/connect.php on line 9
+[16-Aug-2013 14:30:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home2/ardian/public_html/code/ajax/admin/connect.php on line 9
